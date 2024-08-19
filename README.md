@@ -42,7 +42,7 @@ Akses demo aplikasi di: https://panelsurya-edafc.web.app/
 - **Penyimpanan Data:** Firebase RTDB menyimpan data real-time yang diterima dari perangkat, sementara Firestore menyimpan data historis untuk keperluan analisis performa jangka panjang.
 - **Ekspor Data:** Pengguna dapat mengekspor data panel surya dalam format CSV untuk keperluan analisis lebih lanjut menggunakan software eksternal.
 
-## Team
+## Team IAIREL (Instrumentation, Artificial Intelligence, and Renewable Energy Laboratory)
 1. Mimi Azmita
 2. Nabila Salvaningtyas
 4. Rifki Tirta Nur Iman
