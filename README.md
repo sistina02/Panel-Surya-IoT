@@ -50,5 +50,4 @@ Akses demo aplikasi di: https://panelsurya-edafc.web.app/
 6. Aditya Trias Putra
 7. Eka Rachma Aprilidanti
 8. Abdurrahman Al Faiz Al Atsary
-9. Diva Anggraeni Fatmasari
-10. Novandino Ramadhan
+9. Novandino Ramadhan
