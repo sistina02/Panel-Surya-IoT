@@ -48,3 +48,7 @@ Akses demo aplikasi di: https://panelsurya-edafc.web.app/
 4. Rifki Tirta Nur Iman
 5. Muhamad Ridwan Suryadi
 6. Aditya Trias Putra
+7. Eka Rachma Aprilidanti
+8. Abdurrahman Al Faiz Al Atsary
+9. Diva Anggraeni Fatmasari
+10. Novandino Ramadhan
